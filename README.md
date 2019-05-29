@@ -21,3 +21,14 @@ Tutorial assignments, codes, worksheets, links, etc done during CVIT Summer Scho
 * Content aware resizing using seam carving method
 * Path smoothing of RGB video using L1 Trend Filtering
 * Linear regression using python CVXPY package
+
+## Android Dev
+* Create an app with Computer Vision capabilities
+* App runs on Pixel 3 [Android 7.0 with Google API] (tested)
+
+### TODO
+- [x] Sample app with an interface
+- [x] Camera interaction to capture photos
+- [x] View captured image in the app
+- [x] Save photos to private app directory
+- [ ] Basic image analysis / CV Tasks

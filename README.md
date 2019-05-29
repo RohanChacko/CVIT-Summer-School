@@ -22,6 +22,8 @@ Tutorial assignments, codes, worksheets, links, etc done during CVIT Summer Scho
 * Path smoothing of RGB video using L1 Trend Filtering
 * Linear regression using python CVXPY package
 
+---
+
 ## Android Dev
 * Create an app with Computer Vision capabilities
 * App runs on Pixel 3 [Android 7.0 with Google API] (tested)

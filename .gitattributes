@@ -1,0 +1,1 @@
+AndroidDev/app/src/main/jniLibs/x86_64/libopencv_java4.so filter=lfs diff=lfs merge=lfs -text

@@ -23,6 +23,7 @@ Tutorial assignments, codes, worksheets, links, etc done during CVIT Summer Scho
 * Linear regression using python CVXPY package
 
 ---
+&nbsp;
 
 ## Android Dev
 * Create an app with Computer Vision capabilities
@@ -31,6 +32,7 @@ Tutorial assignments, codes, worksheets, links, etc done during CVIT Summer Scho
 ### TODO
 - [x] Sample app with an interface
 - [x] Camera interaction to capture photos
-- [x] View captured image in the app
-- [x] Save photos to private app directory
-- [ ] Basic image analysis / CV Tasks
+- [x] View captured image in gallery
+- [x] Save photos to specific folder in gallery
+- [x] Allow user to delete, share and edit photos using inbuilt functionalities
+- [ ] Object Detection in scene
